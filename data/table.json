@@ -39,12 +39,51 @@ data = [
 		"_id": 4,
 		"nombre": "Ronald Solano López",
 		"edad": "50",
-		"nacionalidad": "Costa Rica",
+		"nacionalidad": "Mexico",
 		"especialidad": "Oftalmologia",
 		"centromedico": "Alajuela",
 		"cita": "CITA 2",
 		"cita_id": 2,
 		"paciente": "Floribeth Mora JIménez",
 		"paciente_id": 2
+	}
+	,
+	{
+		"_id": 5,
+		"nombre": "Lorena Salazar Mora",
+		"edad": "50",
+		"nacionalidad": "Guatemala",
+		"especialidad": "Oftalmologia",
+		"centromedico": "Alajuela",
+		"cita": "CITA 2",
+		"cita_id": 2,
+		"paciente": "Floribeth Mora JIménez",
+		"paciente_id": 2
+	}
+	,
+	{
+		"_id": 6,
+		"nombre": "Arcelio Chaves Villarevia",
+		"edad": "50",
+		"nacionalidad": "Costa Rica",
+		"especialidad": "Neurologia",
+		"centromedico": "Limon",
+		"cita": "CITA 4",
+		"cita_id": 4,
+		"paciente": "Jouser Thomas Acuña",
+		"paciente_id": 4
+	}
+	,
+	{
+		"_id": 7,
+		"nombre": "Keilyn Chaves Salazar",
+		"edad": "50",
+		"nacionalidad": "Panama",
+		"especialidad": "Oftalmologia",
+		"centromedico": "Alajuela",
+		"cita": "CITA 3",
+		"cita_id": 3,
+		"paciente": "Nadia Solano Mora",
+		"paciente_id": 3
 	}
 ]
