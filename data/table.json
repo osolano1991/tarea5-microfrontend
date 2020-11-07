@@ -1,7 +1,7 @@
 data = [
 	{
 		"_id": 1,
-		"cita": "Abraham Silberschatz",
+		"cita": "CITA 1",
 		"nationality": "Israelis / American",
 		"birth_year": 1952,
 		"fields": "Database Systems, Operating Systems",
@@ -18,7 +18,7 @@ data = [
 	},
 	{
 		"_id": 2,
-		"cita": "Andrew S. Tanenbaum",
+		"cita": "CITA 2",
 		"nationality": "Dutch / American",
 		"birth_year": 1944,
 		"fields": "Distributed computing, Operating Systems",
