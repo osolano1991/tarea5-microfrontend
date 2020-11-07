@@ -6,10 +6,10 @@ data = [
 		"nacionalidad": 2012,
 		"especialidad": "Medicina General",
 		"centromedico": 976,
-		"author": "Abraham Silberschatz",
-		"author_id": 1,
-		"publisher": "John Wiley & Sons",
-		"publisher_id": 1
+		"cita": "Abraham Silberschatz",
+		"cita_id": 1,
+		"paciente": "John Wiley & Sons",
+		"paciente_id": 1
 	},
 	{
 		"_id": 2,
@@ -18,10 +18,10 @@ data = [
 		"nacionalidad": 2010,
 		"especialidad": "Odontologia",
 		"centromedico": 1376,
-		"author": "Abraham Silberschatz",
-		"author_id": 1,
-		"publisher": "John Wiley & Sons",
-		"publisher_id": 1
+		"cita": "Abraham Silberschatz",
+		"cita_id": 1,
+		"paciente": "John Wiley & Sons",
+		"paciente_id": 1
 	},
 	{
 		"_id": 3,
@@ -30,10 +30,10 @@ data = [
 		"nacionalidad": 2010,
 		"especialidad": "Neurologa",
 		"centromedico": 960,
-		"author": "Andrew S. Tanenbaum",
-		"author_id": 2,
-		"publisher": "Pearson Education",
-		"publisher_id": 2
+		"cita": "Andrew S. Tanenbaum",
+		"cita_id": 2,
+		"paciente": "Pearson Education",
+		"paciente_id": 2
 	},
 	{
 		"_id": 4,
@@ -42,9 +42,9 @@ data = [
 		"nacionalidad": 2014,
 		"especialidad": "Oftalmologia",
 		"centromedico": 1136,
-		"author": "Andrew S. Tanenbaum",
-		"author_id": 2,
-		"publisher": "Pearson Education",
-		"publisher_id": 2
+		"cita": "Andrew S. Tanenbaum",
+		"cita_id": 2,
+		"paciente": "Pearson Education",
+		"paciente_id": 2
 	}
 ]
