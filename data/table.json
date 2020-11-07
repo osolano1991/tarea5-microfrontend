@@ -5,7 +5,7 @@ data = [
 		"country": "United States",
 		"founded": 1807,
 		"genere": "Academic",
-		"books": [
+		"doctores": [
 			{
 				"doctor_id": 1,
 				"nombre": "Oscar Solano Mora"
@@ -22,7 +22,7 @@ data = [
 		"country": "United Kingdom",
 		"founded": 1844,
 		"genere": "Education",
-		"books": [
+		"doctores": [
 			{
 				"doctor_id": 3,
 				"nombre": "Angie Segura Solano"
