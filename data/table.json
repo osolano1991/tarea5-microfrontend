@@ -5,10 +5,10 @@ data = [
 		"edad": "9th",
 		"nacionalidad": 2012,
 		"especialidad": "Medicina General",
-		"centromedico": 976,
-		"cita": "Abraham Silberschatz",
+		"centromedico": "San José",
+		"cita": "CITA 1",
 		"cita_id": 1,
-		"paciente": "John Wiley & Sons",
+		"paciente": "Luis Solano Mora",
 		"paciente_id": 1
 	},
 	{
@@ -17,10 +17,10 @@ data = [
 		"edad": "6th",
 		"nacionalidad": 2010,
 		"especialidad": "Odontologia",
-		"centromedico": 1376,
-		"cita": "Abraham Silberschatz",
+		"centromedico": "Cartago",
+		"cita": "CITA 1",
 		"cita_id": 1,
-		"paciente": "John Wiley & Sons",
+		"paciente": "Luis Solano Mora",
 		"paciente_id": 1
 	},
 	{
@@ -29,10 +29,10 @@ data = [
 		"edad": "5th",
 		"nacionalidad": 2010,
 		"especialidad": "Neurologa",
-		"centromedico": 960,
-		"cita": "Andrew S. Tanenbaum",
+		"centromedico": "Heredia",
+		"cita": "CITA 2",
 		"cita_id": 2,
-		"paciente": "Pearson Education",
+		"paciente": "Floribeth Mora JIménez",
 		"paciente_id": 2
 	},
 	{
@@ -41,10 +41,10 @@ data = [
 		"edad": "4th",
 		"nacionalidad": 2014,
 		"especialidad": "Oftalmologia",
-		"centromedico": 1136,
-		"cita": "Andrew S. Tanenbaum",
+		"centromedico": "Alajuela",
+		"cita": "CITA 2",
 		"cita_id": 2,
-		"paciente": "Pearson Education",
+		"paciente": "Floribeth Mora JIménez",
 		"paciente_id": 2
 	}
 ]
