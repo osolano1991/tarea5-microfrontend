@@ -8,11 +8,11 @@ data = [
 		"doctores": [
 			{
 				"doctores_id": 1,
-				"name": "Oscar Solano Mora"
+				"nombre": "Oscar Solano Mora"
 			},
 			{
 				"doctores_id": 2,
-				"name": "Tatiana Chaves Salazar"
+				"nombre": "Tatiana Chaves Salazar"
 			}
 		]
 	},
@@ -25,11 +25,11 @@ data = [
 		"doctores": [
 			{
 				"doctores_id": 3,
-				"name": "Angie Segura Solano"
+				"nombre": "Angie Segura Solano"
 			},
 			{
 				"doctores_id": 4,
-				"name": "Ronald Solano López"
+				"nombre": "Ronald Solano López"
 			}
 		]
 	}
