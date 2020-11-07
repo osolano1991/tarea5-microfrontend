@@ -1,7 +1,7 @@
 data = [
 	{
 		"_id": 1,
-		"paciente": "John Wiley & Sons",
+		"paciente": "Luis Solano Mora",
 		"country": "United States",
 		"founded": 1807,
 		"genere": "Academic",
@@ -18,7 +18,7 @@ data = [
 	},
 	{
 		"_id": 2,
-		"paciente": "Pearson Education",
+		"paciente": "Floribeth Mora JIménez",
 		"country": "United Kingdom",
 		"founded": 1844,
 		"genere": "Education",
