@@ -5,6 +5,7 @@ data = [
 		"edad": "26",
 		"enfermedad": "Hipertension",
 		"nacionalidad": "Estados Unidos",
+		"tratamientos": "Pastillas",
 		"doctores": [
 			{
 				"doctor_id": 1,
@@ -22,6 +23,7 @@ data = [
 		"edad": "52",
 		"enfermedad": "Miopia",
 		"nacionalidad": "Inglaterra",
+		"tratamientos": "Lentes",
 		"doctores": [
 			{
 				"doctor_id": 3,
@@ -39,6 +41,7 @@ data = [
 		"edad": "27",
 		"enfermedad": "Colesterol",
 		"nacionalidad": "España",
+		"tratamientos": "Bajar de peso",
 		"doctores": [
 			{
 				"doctor_id": 2,
@@ -56,6 +59,7 @@ data = [
 		"edad": "15",
 		"enfermedad": "Diabetes",
 		"nacionalidad": "Francia",
+		"tratamientos": "Inyecciones",
 		"doctores": [
 			{
 				"doctor_id": 1,
