@@ -2,34 +2,34 @@ data = [
 	{
 		"_id": 1,
 		"cita": "CITA 1",
-		"nationality": "Israelis / American",
-		"birth_year": 1952,
-		"fields": "Database Systems, Operating Systems",
+		"dia": "Lunes",
+		"hora": "04:00 p.m",
+		"ubicacion": "Heredia",
 		"doctores": [
 			{
 				"doctor_id": 1,
-				"nombre": "Operating System Concepts"
+				"nombre": "Oscar Solano Mora"
 			},
 			{
 				"doctor_id": 2,
-				"nombre": "Database System Concepts"
+				"nombre": "Tatiana Chaves Salazar"
 			}
 		]
 	},
 	{
 		"_id": 2,
 		"cita": "CITA 2",
-		"nationality": "Dutch / American",
-		"birth_year": 1944,
-		"fields": "Distributed computing, Operating Systems",
+		"dia": "Martes",
+		"hora": "10:00 a.m",
+		"ubicacion": "San José",
 		"doctores": [
 			{
 				"doctor_id": 3,
-				"nombre": "Computer Networks"
+				"nombre": "Angie Segura Solano"
 			},
 			{
 				"doctor_id": 4,
-				"nombre": "Modern Operating Systems"
+				"nombre": "Ronald Solano López"
 			}
 		]
 	}
