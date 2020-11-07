@@ -1,35 +1,35 @@
 data = [
 	{
 		"_id": 1,
-		"nombre": "Cita 1",
-		"dia": "Lunes",
-		"hora": "03:00 p.m",
-		"ubicacion": "San José, Heredia",
-		"doctores": [
+		"author": "Abraham Silberschatz",
+		"nationality": "Israelis / American",
+		"birth_year": 1952,
+		"fields": "Database Systems, Operating Systems",
+		"books": [
 			{
-				"doctores_id": 1,
-				"nombre": "Oscar Solano Mora"
+				"book_id": 1,
+				"title": "Operating System Concepts"
 			},
 			{
-				"doctores_id": 2,
-				"nombre": "Tatiana Chaves Salazar"
+				"book_id": 2,
+				"title": "Database System Concepts"
 			}
 		]
 	},
 	{
 		"_id": 2,
-		"nombre": "Cita 2",
-		"dia": "Martes",
-		"hora": "10:00 a.m",
-		"ubicacion": "Paris, Monaco",
-		"doctores": [
+		"author": "Andrew S. Tanenbaum",
+		"nationality": "Dutch / American",
+		"birth_year": 1944,
+		"fields": "Distributed computing, Operating Systems",
+		"books": [
 			{
-				"doctores_id": 3,
-				"nombre": "Angie Segura Solano"
+				"book_id": 3,
+				"title": "Computer Networks"
 			},
 			{
-				"doctores_id": 4,
-				"nombre": "Ronald Solano López"
+				"book_id": 4,
+				"title": "Modern Operating Systems"
 			}
 		]
 	}
