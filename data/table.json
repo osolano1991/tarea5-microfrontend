@@ -1,35 +1,35 @@
 data = [
 	{
 		"_id": 1,
-		"publisher": "John Wiley & Sons",
+		"paciente": "John Wiley & Sons",
 		"country": "United States",
 		"founded": 1807,
 		"genere": "Academic",
 		"books": [
 			{
-				"book_id": 1,
-				"title": "Operating System Concepts"
+				"doctor_id": 1,
+				"nombre": "Oscar Solano Mora"
 			},
 			{
-				"book_id": 2,
-				"title": "Database System Concepts"
+				"doctor_id": 2,
+				"nombre": "Tatiana Chaves Salazar"
 			}
 		]
 	},
 	{
 		"_id": 2,
-		"publisher": "Pearson Education",
+		"paciente": "Pearson Education",
 		"country": "United Kingdom",
 		"founded": 1844,
 		"genere": "Education",
 		"books": [
 			{
-				"book_id": 3,
-				"title": "Computer Networks"
+				"doctor_id": 3,
+				"nombre": "Angie Segura Solano"
 			},
 			{
-				"book_id": 4,
-				"title": "Modern Operating Systems"
+				"doctor_id": 4,
+				"nombre": "Ronald Solano López"
 			}
 		]
 	}

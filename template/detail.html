@@ -1,4 +1,4 @@
-<h4 style="margin-top: 15px">{{ publisher }}</h4>
+<h4 style="margin-top: 15px">{{ paciente }}</h4>
 
 <h5>Publisher's details</h5>
 <form>
@@ -24,9 +24,9 @@
   </div>
 </form>
 
-<h5>Books</h5>
+<h5>Doctores</h5>
 <ul>
-{{#books}}
-  <li><a href="https://books-minisite.netlify.app/get?id={{book_id}}">{{title}}</li>
-{{/books}}
+{{#doctores}}
+  <li><a href="https://tarea5-doctores-oscarsolanomora.netlify.app/get?id={{doctor_id}}">{{nombre}}</li>
+{{/doctores}}
 </ul>
