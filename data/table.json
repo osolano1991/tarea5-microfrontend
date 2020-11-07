@@ -5,14 +5,14 @@ data = [
 		"nationality": "Israelis / American",
 		"birth_year": 1952,
 		"fields": "Database Systems, Operating Systems",
-		"books": [
+		"doctores": [
 			{
-				"book_id": 1,
-				"title": "Operating System Concepts"
+				"doctor_id": 1,
+				"nombre": "Operating System Concepts"
 			},
 			{
-				"book_id": 2,
-				"title": "Database System Concepts"
+				"doctor_id": 2,
+				"nombre": "Database System Concepts"
 			}
 		]
 	},
@@ -22,14 +22,14 @@ data = [
 		"nationality": "Dutch / American",
 		"birth_year": 1944,
 		"fields": "Distributed computing, Operating Systems",
-		"books": [
+		"doctores": [
 			{
-				"book_id": 3,
-				"title": "Computer Networks"
+				"doctor_id": 3,
+				"nombre": "Computer Networks"
 			},
 			{
-				"book_id": 4,
-				"title": "Modern Operating Systems"
+				"doctor_id": 4,
+				"nombre": "Modern Operating Systems"
 			}
 		]
 	}
