@@ -20,12 +20,46 @@ data = [
 		"_id": 2,
 		"paciente": "Floribeth Mora JIménez",
 		"edad": "52",
-		"enfermedad": 1844,
+		"enfermedad": "Miopia",
 		"nacionalidad": "Inglaterra",
 		"doctores": [
 			{
 				"doctor_id": 3,
 				"nombre": "Angie Segura Solano"
+			},
+			{
+				"doctor_id": 4,
+				"nombre": "Ronald Solano López"
+			}
+		]
+	},
+	{
+		"_id": 3,
+		"paciente": "Nadia Solano Mora",
+		"edad": "27",
+		"enfermedad": "Colesterol",
+		"nacionalidad": "España",
+		"doctores": [
+			{
+				"doctor_id": 2,
+				"nombre": "Tatiana Chaves Salazar"
+			},
+			{
+				"doctor_id": 3,
+				"nombre": "Angie Segura Solano"
+			}
+		]
+	},
+	{
+		"_id": 4,
+		"paciente": "Jouser Thomas Acuña",
+		"edad": "15",
+		"enfermedad": "Diabetes",
+		"nacionalidad": "Francia",
+		"doctores": [
+			{
+				"doctor_id": 1,
+				"nombre": "Oscar Solano Mora"
 			},
 			{
 				"doctor_id": 4,
