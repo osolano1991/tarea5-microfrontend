@@ -41,7 +41,7 @@ data = [
 		"edad": "50",
 		"nacionalidad": "Mexico",
 		"especialidad": "Oftalmologia",
-		"centromedico": "Alajuela",
+		"centromedico": "San Jose",
 		"cita": "CITA 2",
 		"cita_id": 2,
 		"paciente": "Floribeth Mora JIménez",
@@ -51,7 +51,7 @@ data = [
 	{
 		"_id": 5,
 		"nombre": "Lorena Salazar Mora",
-		"edad": "50",
+		"edad": "54",
 		"nacionalidad": "Guatemala",
 		"especialidad": "Oftalmologia",
 		"centromedico": "Alajuela",
@@ -64,7 +64,7 @@ data = [
 	{
 		"_id": 6,
 		"nombre": "Arcelio Chaves Villarevia",
-		"edad": "50",
+		"edad": "55",
 		"nacionalidad": "Costa Rica",
 		"especialidad": "Neurologia",
 		"centromedico": "Limon",
@@ -77,7 +77,7 @@ data = [
 	{
 		"_id": 7,
 		"nombre": "Keilyn Chaves Salazar",
-		"edad": "50",
+		"edad": "24",
 		"nacionalidad": "Panama",
 		"especialidad": "Oftalmologia",
 		"centromedico": "Alajuela",
