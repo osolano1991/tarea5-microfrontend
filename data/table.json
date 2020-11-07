@@ -2,9 +2,9 @@ data = [
 	{
 		"_id": 1,
 		"paciente": "Luis Solano Mora",
-		"country": "United States",
-		"founded": 1807,
-		"genere": "Academic",
+		"edad": "26",
+		"enfermedad": "Hipertension",
+		"nacionalidad": "Estados Unidos",
 		"doctores": [
 			{
 				"doctor_id": 1,
@@ -19,9 +19,9 @@ data = [
 	{
 		"_id": 2,
 		"paciente": "Floribeth Mora JIménez",
-		"country": "United Kingdom",
-		"founded": 1844,
-		"genere": "Education",
+		"edad": "52",
+		"enfermedad": 1844,
+		"nacionalidad": "Inglaterra",
 		"doctores": [
 			{
 				"doctor_id": 3,
