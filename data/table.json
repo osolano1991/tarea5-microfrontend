@@ -51,6 +51,11 @@ data = [
 				"doctor_id": 6,
 				"nombre": "Arcelio Chaves Villarevia"
 			}
+			,
+			{
+				"doctor_id": 1,
+				"nombre": "Oscar Solano Mora"
+			}
 		]
 	},
 	{
@@ -68,6 +73,11 @@ data = [
 			{
 				"doctor_id": 5,
 				"nombre": "Lorena Salazar Mora"
+			}
+			,
+			{
+				"doctor_id": 2,
+				"nombre": "Tatiana Chaves Salazar"
 			}
 		]
 	}
