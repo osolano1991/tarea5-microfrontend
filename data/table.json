@@ -1,7 +1,7 @@
 data = [
 	{
 		"_id": 1,
-		"nombre": "Operating System Concepts",
+		"nombre": "Oscar Solano Mora",
 		"edad": "9th",
 		"nacionalidad": 2012,
 		"especialidad": "ENGLISH",
@@ -13,7 +13,7 @@ data = [
 	},
 	{
 		"_id": 2,
-		"nombre": "Database System Concepts",
+		"nombre": "Tatiana Chaves Salazar",
 		"edad": "6th",
 		"nacionalidad": 2010,
 		"especialidad": "ENGLISH",
@@ -25,7 +25,7 @@ data = [
 	},
 	{
 		"_id": 3,
-		"nombre": "Computer Networks",
+		"nombre": "Angie Segura Solano",
 		"edad": "5th",
 		"nacionalidad": 2010,
 		"especialidad": "ENGLISH",
@@ -37,7 +37,7 @@ data = [
 	},
 	{
 		"_id": 4,
-		"nombre": "Modern Operating Systems",
+		"nombre": "Ronald Solano López",
 		"edad": "4th",
 		"nacionalidad": 2014,
 		"especialidad": "ENGLISH",
