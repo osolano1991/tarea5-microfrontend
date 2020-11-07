@@ -2,7 +2,7 @@ data = [
 	{
 		"_id": 1,
 		"nombre": "Operating System Concepts",
-		"edition": "9th",
+		"edad": "9th",
 		"copyright": 2012,
 		"language": "ENGLISH",
 		"pages": 976,
@@ -14,7 +14,7 @@ data = [
 	{
 		"_id": 2,
 		"nombre": "Database System Concepts",
-		"edition": "6th",
+		"edad": "6th",
 		"copyright": 2010,
 		"language": "ENGLISH",
 		"pages": 1376,
@@ -26,7 +26,7 @@ data = [
 	{
 		"_id": 3,
 		"nombre": "Computer Networks",
-		"edition": "5th",
+		"edad": "5th",
 		"copyright": 2010,
 		"language": "ENGLISH",
 		"pages": 960,
@@ -38,7 +38,7 @@ data = [
 	{
 		"_id": 4,
 		"nombre": "Modern Operating Systems",
-		"edition": "4th",
+		"edad": "4th",
 		"copyright": 2014,
 		"language": "ENGLISH",
 		"pages": 1136,
