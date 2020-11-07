@@ -2,8 +2,8 @@ data = [
 	{
 		"_id": 1,
 		"nombre": "Oscar Solano Mora",
-		"edad": "9th",
-		"nacionalidad": 2012,
+		"edad": "29",
+		"nacionalidad": "Costa Rica",
 		"especialidad": "Medicina General",
 		"centromedico": "San José",
 		"cita": "CITA 1",
@@ -14,8 +14,8 @@ data = [
 	{
 		"_id": 2,
 		"nombre": "Tatiana Chaves Salazar",
-		"edad": "6th",
-		"nacionalidad": 2010,
+		"edad": "30",
+		"nacionalidad": "Costa Rica",
 		"especialidad": "Odontologia",
 		"centromedico": "Cartago",
 		"cita": "CITA 1",
@@ -26,8 +26,8 @@ data = [
 	{
 		"_id": 3,
 		"nombre": "Angie Segura Solano",
-		"edad": "5th",
-		"nacionalidad": 2010,
+		"edad": "18",
+		"nacionalidad": "Costa Rica",
 		"especialidad": "Neurologa",
 		"centromedico": "Heredia",
 		"cita": "CITA 2",
@@ -38,8 +38,8 @@ data = [
 	{
 		"_id": 4,
 		"nombre": "Ronald Solano López",
-		"edad": "4th",
-		"nacionalidad": 2014,
+		"edad": "50",
+		"nacionalidad": "Costa Rica",
 		"especialidad": "Oftalmologia",
 		"centromedico": "Alajuela",
 		"cita": "CITA 2",
