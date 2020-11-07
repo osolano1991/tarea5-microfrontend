@@ -5,6 +5,7 @@ data = [
 		"dia": "Lunes",
 		"hora": "04:00 p.m",
 		"ubicacion": "Heredia",
+		"especialidad": "Medicina General",
 		"doctores": [
 			{
 				"doctor_id": 1,
@@ -22,6 +23,7 @@ data = [
 		"dia": "Martes",
 		"hora": "10:00 a.m",
 		"ubicacion": "San José",
+		"especialidad": "Oftalmología",
 		"doctores": [
 			{
 				"doctor_id": 3,
@@ -30,6 +32,42 @@ data = [
 			{
 				"doctor_id": 4,
 				"nombre": "Ronald Solano López"
+			}
+		]
+	},
+	{
+		"_id": 3,
+		"cita": "CITA 3",
+		"dia": "Miércoles",
+		"hora": "08:00 a.m",
+		"ubicacion": "Puntarenas",
+		"especialidad": "Neurología",
+		"doctores": [
+			{
+				"doctor_id": 7,
+				"nombre": "Keilyn Chaves Salazar"
+			},
+			{
+				"doctor_id": 6,
+				"nombre": "Arcelio Chaves Villarevia"
+			}
+		]
+	},
+	{
+		"_id": 4,
+		"cita": "CITA 4",
+		"dia": "Jueves",
+		"hora": "12:00 p.m",
+		"ubicacion": "Alajuela",
+		"especialidad": "Pediatría",
+		"doctores": [
+			{
+				"doctor_id": 1,
+				"nombre": "Oscar Solano Mora"
+			},
+			{
+				"doctor_id": 5,
+				"nombre": "Lorena Salazar Mora"
 			}
 		]
 	}
